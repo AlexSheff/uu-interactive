@@ -1,4 +1,4 @@
-# UUCP Interactive
+# UU Interactive
 
 **From Screen to Reality. Vote as a Free Citizen of the World.**
 
@@ -9,7 +9,7 @@
 
 ### Vision
 
-UUCP Interactive is a new kind of platform that starts as **interactive vertical cinema** and quietly evolves into **DAO 2.0** — a decentralized system for collective decision-making.
+UU Interactive is a new kind of platform that starts as **interactive vertical cinema** and quietly evolves into **DAO 2.0** — a decentralized system for collective decision-making.
 
 - **Layer 1 (Free)**: YouTube series shaped by likes and polls.
 - **Layer 2 (Paid, $5/mo)**: Real-time voting across interconnected stories.
